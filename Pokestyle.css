@@ -1,0 +1,21 @@
+h1{
+    color: red;
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+}
+link.hover {
+    color: yellow;
+}
+pre{
+    font-family: "Comic Sans MS", "Comic Sans", cursive;
+    background-color: gray;
+    opacity:75% ;
+    text-shadow: red
+}
+#logo{
+    width: 50%;
+    height: 300px;
+    margin-left: 25%;
+}
+body{
+    background-image:url(Background.png);
+}
