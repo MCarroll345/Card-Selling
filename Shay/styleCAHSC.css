@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+
+h1 {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+
+button {
+  padding: 5px 10px;
+  background-color: #333;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #666;
+}
+
+#cart {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+#cart li {
+  padding: 5px 10px;
+  background-color: #eee;
+  margin-bottom: 10px;
+}
+
+.animated-text {
+  color: red;
+}
+
