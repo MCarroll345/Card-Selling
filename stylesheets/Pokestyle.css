@@ -33,11 +33,7 @@ link.hover {
     margin-left: 25%;
 }
 body{
-<<<<<<< HEAD
     background-image:url(../images/Iel1fSg-pokemon-wallpaper.jpg);
-=======
-    background-image:url(Iel1fSg-pokemon-wallpaper.jpg);
->>>>>>> 3a563a7cd89147e34232b3b436c432d31e83742a
     
 }
 #charizard{
@@ -52,20 +48,11 @@ body{
     margin-right:10px;
     float: right;
     margin-top: 50px;
-<<<<<<< HEAD
-<<<<<<< HEAD
 }
-=======
-=======
->>>>>>> 775234b58baa6c1f46a63d1e421cb74797980a15
+
 h1{
     color: red;
 }
 link.hover {
     color: yellow;
-<<<<<<< HEAD
-=======
->>>>>>> 3a563a7cd89147e34232b3b436c432d31e83742a
-=======
->>>>>>> 775234b58baa6c1f46a63d1e421cb74797980a15
 }
