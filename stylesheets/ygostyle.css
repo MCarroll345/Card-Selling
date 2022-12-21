@@ -11,6 +11,7 @@ body{
     background-image: url(../images/ygoback.jfif);
     background-repeat: no-repeat;
     background-position: fixed;
+    background-attachment: fixed;
 }
 .main{
     width: 75%;
@@ -34,6 +35,7 @@ h3{
     color: #4c99f0;
 }
 .txtbdy{
+    width:60%;
     margin-right:50%;
 }
 .heading{
