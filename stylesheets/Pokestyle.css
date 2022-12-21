@@ -48,4 +48,10 @@ body{
     margin-right:10px;
     float: right;
     margin-top: 50px;
+=======
+h1{
+    color: red;
+}
+link.hover {
+    color: yellow;
 }
