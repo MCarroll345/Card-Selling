@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="../stylesheets/ygostyle.css" rel="stylesheet" type="text/css">
+    <title>Yugi-Oh</title>
+</head>
+<body>
+    <header>
+        <img src="../images/ygoLogo.png" alt="Yugi-Oh logo" id="logo">
+    </header>
+
+    <div class="main">
+        <h2>A Brief Introdution</h2>
+
+        <p>Yugi-Oh is a card playing game based off of the anime with the same name. 
+            The anime started in 2001 and ever since fans have been playing the card game, 
+            having their own duels between eachother to prove who is the better duelist. </p>
+
+        <br>
+        <hr>
+        <br>
+
+        <h3>The Cards</h3>
+
+        <div >
+            <table>
+                <tr>
+                    <td class="heading">Blue Eyes White Dragon</td>
+                </tr>
+                <tr>
+                    <td class="txtbdy">Blue Eyes White Dragon is maybe the most iconic card of the entire series,
+                        known by many who don't watch the anime or play the game. 
+                 It's great design and it's versetility in the game makes it one of the most powerful cards in the game.<a href="https://yugioh.fandom.com/wiki/Blue-Eyes?so=search" target="_blank"> Find more out here.</a></td>
+                    <td><img class="card" id="crd1" src="../images/backcard.jfif"></td>
+                    <td><input type="button" onclick="switchImage1()" value="Flip Card" /></td>
+                </tr>
+            </table>
+        </div>
+        
+        <br>
+        <hr>
+        <br>
+
+        <div >
+            <table>
+                <tr>
+                    <td class="heading">El Shaddoll Construct</td>
+                </tr>
+                <tr>
+                    <td class="txtbdy">Shaddoll an archetype comprised primarily of dark monsters. Their focus is the Fusion Summon of the more powerful "El Shaddoll" monsters, which restrict or punish Special Summons.<a href="https://yugioh.fandom.com/wiki/Shaddoll#Playing_style" target="_blank"> Find more out here.</a> </td>
+                 <td><img class="card" id="crd2" src="../images/backcard.jfif"></td>
+                 <td><input type="button" onclick="switchImage2()" value="Flip Card" /></td>
+                </tr>
+            </table>
+        </div>
+
+        <br>
+        <hr>
+        <br>
+
+        <div >
+            <table>
+                <tr>
+                    <td class="heading">Numeronius</td>
+                </tr>
+                <tr>
+                    <td class="txtbdy">The Numeron archetype focuses on obtaining ridiculously high ATK values (like the "Numeron" monsters) as well as effects that protect themselves and limit the opponent's actions.<a href="https://yugioh.fandom.com/wiki/Numerounius?so=search" target="_blank"> Find more out here.</a></td>
+                 <td><img class="card" id="crd3" src="../images/backcard.jfif"></td>
+                 <td><input type="button" onclick="switchImage3()" value="Flip Card" /></td>
+                </tr>
+            </table>
+        </div>
+
+        <footer>
+            <p id="copyright">Ⓒ The copyright to these images are not our own but used under fair use</p>
+        </footer>
+    </div>
+
+    <script src="../javascript/jsYgo.js"></script>
+
+</body>
+</html>
