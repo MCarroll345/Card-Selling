@@ -22,6 +22,7 @@ body{
     padding-top: 10px;
     padding-bottom: 10px;
     background-color: #525252;
+    border: ridge 4px #4c99f0;
 }
 h2{
     text-align: center;
@@ -46,5 +47,10 @@ h3{
 }
 .card{
    width:200px;
+}
+footer{
+    text-align: center;
+    margin:20px;
+    border: ridge 2px #4c99f0;
 }
 

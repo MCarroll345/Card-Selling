@@ -44,5 +44,7 @@ h2{
     color:wheat;
     background-color: #3f3f3f;
     padding: 5px 5px 0px 0px;
- 
+    width: 75%;
+    margin-left: 10%;
+    margin-right: auto;
  }
