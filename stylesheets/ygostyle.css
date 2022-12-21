@@ -9,10 +9,14 @@ body{
     background-color: #3f3f3f;
     color:rgb(255, 249, 230);
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 775234b58baa6c1f46a63d1e421cb74797980a15
     background-image: url(../images/ygoback.jfif);
     background-repeat: no-repeat;
     background-position: fixed;
     background-attachment: fixed;
+<<<<<<< HEAD
 }
 .main{
     width: 75%;
@@ -25,19 +29,31 @@ body{
     background-color: #525252;
     border: ridge 4px #4c99f0;
 =======
+=======
+>>>>>>> 775234b58baa6c1f46a63d1e421cb74797980a15
 }
 .main{
-    width: 80%;
+    width: 75%;
     margin-left: 10%;
     margin-right: auto;
-    padding: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
     background-color: #525252;
+<<<<<<< HEAD
 >>>>>>> 3a563a7cd89147e34232b3b436c432d31e83742a
+=======
+    border: ridge 4px #4c99f0;
+>>>>>>> 775234b58baa6c1f46a63d1e421cb74797980a15
 }
 h2{
     text-align: center;
     font-size: 36px;
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> 775234b58baa6c1f46a63d1e421cb74797980a15
     
     color: #4c99f0;
 }
@@ -65,6 +81,9 @@ footer{
     border: ridge 2px #4c99f0;
 }
 
+<<<<<<< HEAD
 =======
 }
 >>>>>>> 3a563a7cd89147e34232b3b436c432d31e83742a
+=======
+>>>>>>> 775234b58baa6c1f46a63d1e421cb74797980a15
